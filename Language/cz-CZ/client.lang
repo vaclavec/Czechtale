@@ -1140,7 +1140,7 @@ general.relativeTime.years = před {years} lety
 general.chatMessage.failedToSaveScreenshot = Nelze uložit snímek obrazovky!
 general.chatMessage.requestCancelled = Požadavek byl zrušen.
 # === hud ===
-hud.playerList.onlinePlayers = hráči online
+hud.playerList.onlinePlayers = Hráči online
 hud.playerList.username = Uživatelské jméno
 hud.playerList.ping = Ping
 
@@ -1175,7 +1175,7 @@ hud.networkQuality.packetLoss.okay = Střední ztráta paketů (0,1-1%) – mů�
 hud.networkQuality.packetLoss.poor = Vysoká ztráta paketů (1-3%) – některé akce nebo aktualizace nemusí být registrované.
 hud.networkQuality.packetLoss.bad = Velmi vysoká ztráta paketů (>=3%) — mohou nastat závažné desynchronizace nebo odpojení.
 
-hud.networkQuality.worldSaving = ukládání světa
+hud.networkQuality.worldSaving = Ukládání světa
 hud.networkQuality.offlineMode = Offline režim: Vaše relace vypršela. Restartujte hru, abyste se znovu připojili.
 
 hud.sleep.awaiting = {asleep}/{total} hráči spí...
@@ -1237,7 +1237,7 @@ inventory.bench.tierLevelX = Úroveň {level}
 inventory.bench.tierLevelX.requirements = Požadavky pro úroveň {level}
 inventory.bench.tierLevelX.upgrade = Upgradovat na úroveň {level}
 inventory.bench.tier.button.upgrade = Vylepšit
-inventory.bench.tier.max = DOSAŽENA MAXIMÁLNÍ ÚROVEŇ
+inventory.bench.tier.max = DOSAŽENO MAXIMA
 
 inventory.crafting.ingredient.tooltip.pullingFromChests = Nemáte dostatek surovin ve svém inventáři. Používání položek z blízkých truhel.
 
@@ -1794,9 +1794,9 @@ settings.category.uiVisibility = Viditelnost UI
 settings.category.displayNotifications = Displej a notifikace
 
 # Quick Settings Labels
-settings.noClip = No Clip
+settings.noClip = Bez kolize
 settings.flightMode = Režim letu
-settings.flightMode.hover = Hover
+settings.flightMode.hover = Vznášet se
 settings.flightMode.directional = Směrový
 settings.flightInertia = Setrvačnost letu
 settings.flightSpeedMultiplier = Násobitel rychlosti pohybu
@@ -2180,7 +2180,7 @@ settings.miscItemsPickupLocation.description = Určuje umístění, které má m
 <b><color is="#f1ba50">Inventář</color></b>: Nové předměty budou nejprve ukládány do inventáře a po jeho zaplnění budou umístěny do panelu rychlého přístupu.
 
 settings.pickupLocation.hotbar = Panel nástrojů
-settings.pickupLocation.storage = Zásoby
+settings.pickupLocation.storage = Inventář
 
 settings.cameraBasedClimbing = Šplhání podle kamery
 settings.cameraBasedClimbing.description = Určuje způsob fungování šplhání.\n\
