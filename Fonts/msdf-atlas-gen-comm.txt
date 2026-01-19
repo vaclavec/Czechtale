@@ -1,4 +1,4 @@
-# msdf-atlas-gen>msdf-atlas-gen -font Lexend-Bold.ttf -type msdf -format png -dimensions 512 512 -size 40 -pxrange 8 -yorigin top -charset chars-cs.txt -imageout Lexend-Bold.png -json Lexend-Bold.json
-# msdf-atlas-gen>msdf-atlas-gen -font NotoMono-Regular.ttf -type msdf -format png -dimensions 512 512 -size 40 -pxrange 8 -yorigin top -charset chars-cs.txt -imageout NotoMono-Regular.png -json NotoMono-Regular.json
-# msdf-atlas-gen>msdf-atlas-gen -font NunitoSans-ExtraBold.ttf -type msdf -format png -dimensions 512 512 -size 40 -pxrange 8 -yorigin top -charset chars-cs.txt -imageout NunitoSans-ExtraBold.png -json NunitoSans-ExtraBold.json
-# msdf-atlas-gen>msdf-atlas-gen -font NunitoSans-Medium.ttf -type msdf -format png -dimensions 512 512 -size 40 -pxrange 8 -yorigin top -charset chars-cs.txt -imageout NunitoSans-Medium.png -json NunitoSans-Medium.json
+msdf-atlas-gen -font Lexend-Bold.ttf -type msdf -format png -dimensions 512 512 -size 40 -pxrange 8 -yorigin top -charset chars-cs.txt -imageout Lexend-Bold.png -json Lexend-Bold.json
+msdf-atlas-gen -font NotoMono-Regular.ttf -type msdf -format png -dimensions 512 512 -size 40 -pxrange 8 -yorigin top -charset chars-cs.txt -imageout NotoMono-Regular.png -json NotoMono-Regular.json
+msdf-atlas-gen -font NunitoSans-ExtraBold.ttf -type msdf -format png -dimensions 512 512 -size 40 -pxrange 8 -yorigin top -charset chars-cs.txt -imageout NunitoSans-ExtraBold.png -json NunitoSans-ExtraBold.json
+msdf-atlas-gen -font NunitoSans-Medium.ttf -type msdf -format png -dimensions 512 512 -size 40 -pxrange 8 -yorigin top -charset chars-cs.txt -imageout NunitoSans-Medium.png -json NunitoSans-Medium.json

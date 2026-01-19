@@ -1,2 +1,2 @@
-"AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž0123456789 ″‶“”„‟‴‷⁗℃℉¿⁈‽⸘⁇…⁝‥⁚♪!#$%&'()*+,-./:;<=>?@[\]^_{|}~§±©®™°%‰†‡¶€$£¥¤«»¬÷×+−≠≈≤≥√∞∫π`"
+"AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž0123456789 ″‶“”„‟‴‷⁗℃℉¿⁈‽⸘⁇…⁝‥⁚♪!#$%&'()*+,-./:;<=>?@[\]^_{|}~§±©®™°%‰†‡¶€$£¥¤«»¬÷×+−≠≈≤≥√∞∫π`·•⋅"
 @include "base-charset.txt"
