@@ -623,7 +623,6 @@ builderTools.tools.Paint.args.aNumFloors.name = Počet pater
 builderTools.tools.Paint.args.bEnableWindows.name = Povolit okna
 builderTools.tools.Paint.args.bEnableWindows.description = Povolí generování oken.
 builderTools.tools.Paint.args.bNumWindows.name = Počet oken
-
 builderTools.tools.Paint.args.bWindowRadius.name = Poloměr oken
 builderTools.tools.Paint.args.bWindowRadius.description = Poloměr rozmístění oken. Lze jej zvětšit nebo zmenšit pro umístění oken na požadovaná místa.
 builderTools.tools.Paint.args.bWindowWidth.name = Šířka okna
@@ -6962,6 +6961,12 @@ memories.categories.Predator.title = Predátoři
 memories.categories.Undead.title = Nemrtví
 memories.categories.Elemental.title = Elementálové
 memories.categories.Feran.title = Ferani
+
+memories.unlock.title = [TMP] Odemkli jste funkci Vzpomínek!
+memories.unlock.bullet1 = [TMP] Kletba Prázdnoty drží Orbis v šachu, ale stále ještě může existovat způsob, jak ji zlomit.
+memories.unlock.bullet2 = [TMP] V tomto Srdci Orbisu odpočívá božstvo; vyhledejte vzpomínky nespočtu tvorů Orbisu a zaznamenejte je zde, abyste obnovili její vůli.
+memories.unlock.bullet3 = [TMP] Váš inventář nyní může uchovávat omezený počet vzpomínek ve speciální sekci. \nOdevzdejte je do Srdce Orbisu a odemkněte si rozmanité odměny.
+memories.unlock.discoverMemories = [TMP] Objevte vzpomínky
 
 memories.general.title = Vzpomínky
 memories.general.noMemories = Žádné vzpomínky k uložení.
