@@ -1,4 +1,4 @@
-# 🛠️ Překlad + Czechtale Instalátor Češtiny v1.3.2
+# 🛠️ Překlad + Czechtale Instalátor Češtiny
 
 Oficiální instalátor a správce češtiny pro hru Hytale. Tento nástroj umožňuje snadnou instalaci nejnovější verze češtiny přímo z CurseForge a nabízí pokročilé funkce pro správu záloh a opravu herních souborů.
 
