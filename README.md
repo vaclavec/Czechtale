@@ -9,6 +9,8 @@ Oficiální instalátor a správce češtiny pro hru Hytale. Tento nástroj umo�
 * **Logování**: Detailní záznam všech operací pro snadné řešení případných problémů.
 * **Dark Mode**: Automatická podpora tmavého režimu Windows pro pohodlnou práci.
 
+<img width="500" height="327" alt="image" src="https://github.com/user-attachments/assets/b230bc6a-92dd-41d8-9468-e548580239b6" />
+
 ---
 
 ## 🚀 Návod k použití
